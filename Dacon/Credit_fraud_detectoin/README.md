@@ -21,10 +21,22 @@
 </br>  
 
 3. **AutoEncoder**  
-  - [autoencoder.ipynb](https://github.com/2hg7274/Side_Project/blob/main/Dacon/Credit_fraud_detectoin/autoencoder.ipynb) / 1D AutoEncoder 방법. (public 점수: 0.906307551 / private 점수: 0.8868897234)  
+  - [autoencoder.ipynb](https://github.com/2hg7274/Side_Project/blob/main/Dacon/Credit_fraud_detectoin/autoencoder.ipynb) / 1D AutoEncoder 방법.  
+  (public 점수: 0.906307551 / private 점수: 0.8868897234)  
+
+
 
 </br>   
 </br>  
+
+4. **MissForest_KNN**  
+  - [missforest_oversampling_knn.ipynb](https://github.com/2hg7274/Side_Project/blob/main/Dacon/Credit_fraud_detectoin/missforest_oversampling_knn.ipynb) / 결측값 대체(missing imputation) 방법을 사용한 train dataset 라벨링, KNN 모델로 이상치 탐지.  
+  (public 점수: 0.9306109751 / private 점수: 0.9051944159)
+
+</br>  
+</br>  
+
+- [eda.ipynb](https://github.com/2hg7274/Side_Project/blob/main/Dacon/Credit_fraud_detectoin/eda.ipynb) / validatoin dataset correlation analysis 
 
 ## 데이터 출처 
 [https://dacon.io/competitions/official/235930/data](https://dacon.io/competitions/official/235930/data)
