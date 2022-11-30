@@ -6,10 +6,13 @@
 
 ## 📂 파일 설명 
 #### Scikit-learn의 Anomaly Detection 방법
-1. EllipticEnvelope  
+1. **EllipticEnvelope**  
   - [elipticenvelope.ipynb](https://github.com/2hg7274/Competition/blob/main/Dacon/Credit_fraud_detectoin/elipticenvelope.ipynb) / scikit-learn의 elliptic envelope 방법.  
   - [elipticenvelope_2.ipynb](https://github.com/2hg7274/Competition/blob/main/Dacon/Credit_fraud_detectoin/elipticenvelope_2.ipynb) / `model.score_samples()`을 통해 음수 Mahalanobis 거리를 계산하는 방법. (public 점수: 0.9305289388
-/ private 점수: 0.9080859389)
+/ private 점수: 0.9080859389)  
+
+2. **IsolationForest**  
+  - [isolationforest.ipynb](https://github.com/2hg7274/Competition/blob/main/Dacon/Credit_fraud_detectoin/isolationforest.ipynb) / scikit-learn의 isolation forest 방법.
 
 ## 데이터 출처 
 [https://dacon.io/competitions/official/235930/data](https://dacon.io/competitions/official/235930/data)
