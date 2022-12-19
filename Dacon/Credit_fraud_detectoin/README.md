@@ -4,6 +4,9 @@
 ## 📝 프로젝트 리포트
 [프로젝트에 대한 자세한 설명 (코드 설명 포함)](https://cooing-howler-35f.notion.site/AI-790b3a199c8445e38a4768004c5f0125)  
 
+## ✓프로젝트 키워드  
+`unsupervised learning`, `anomaly detection`, `scikit-learn`, `ellipticenvelope`, `isolationforest`, `tensorflow`, `autoencoder`, `imputation`, `missforest`, `optuna`
+
 ## 📂 파일 설명 
 #### Scikit-learn과 Tensorflow의 Anomaly Detection 방법
 1. **EllipticEnvelope**  
